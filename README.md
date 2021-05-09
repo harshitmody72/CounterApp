@@ -9,6 +9,7 @@
 * Various views(TextView,Button)
 
 ## Preview
+
 > [](https://github.com/harshitmody72/CounterApp/blob/master/RESOURCEs/1.png)
 > 
 > [](https://github.com/harshitmody72/CounterApp/blob/master/RESOURCEs/2.png)
