@@ -14,4 +14,4 @@
 
 ## Download APK from here
 
->[APP](https://github.com/harshitmody72/CounterApp/app/build/outputs/apk/debug/app-debug.apk)
+>[APP](https://github.com/harshitmody72/CounterApp/blob/master/RESOURCEs/apk/debug/app-debug.apk?raw=true)
